@@ -1,7 +1,12 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Here's the sample UI of my mini project:
+
+![TinDog Website](images/tindog_screenshot.png)
+
+--------
+
+### Some snippets of SVG to be used:
 
 ## SVGs:
 
